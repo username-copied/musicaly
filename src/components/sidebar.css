@@ -1,0 +1,14 @@
+.sidebar-container {
+    height: 100%;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.profile-img {
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+}
